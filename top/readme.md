@@ -6,7 +6,6 @@
 ## 一.用途
 　　显示linux进程信息
 ![enter description here](./5.png)
-![enter description here](./6.png)
 ## 二.视图参数含义
 ```
 top视图分为两部分：操作系统资源概况信息和进程信息。首先分析资源概况中各个参数的含义，再来分析下进程信息中各个参数含义。
