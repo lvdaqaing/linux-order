@@ -1,11 +1,9 @@
 ![enter description here](./1.png)
 ![enter description here](./2.png)
 ![enter description here](./3.png)
-![enter description here](./4.png)
 
 ## 一.用途
 　　显示linux进程信息
-![enter description here](./5.png)
 ## 二.视图参数含义
 ```
 top视图分为两部分：操作系统资源概况信息和进程信息。首先分析资源概况中各个参数的含义，再来分析下进程信息中各个参数含义。
@@ -86,4 +84,10 @@ n: 设置显示的进程数
 -n: 显示指定数量的进程
 -p: 显示指定PID的进程
 -u: 显示指定用户的进程
+```
+![enter description here](./4.png)
+![enter description here](./5.png)
+
+``` javascript
+enter code here
 ```
