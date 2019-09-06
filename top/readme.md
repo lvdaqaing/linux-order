@@ -1,6 +1,4 @@
 ![enter description here](./1.png)
-![enter description here](./2.png)
-![enter description here](./3.png)
 
 ## 一.用途
 　　显示linux进程信息
@@ -85,6 +83,8 @@ n: 设置显示的进程数
 -p: 显示指定PID的进程
 -u: 显示指定用户的进程
 ```
+![enter description here](./2.png)
+![enter description here](./3.png)
 ![enter description here](./4.png)
 ![enter description here](./5.png)
 
