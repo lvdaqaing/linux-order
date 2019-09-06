@@ -1,6 +1,7 @@
 ![enter description here](./2.png)
 ![enter description here](./1.png)
 ```
+vmstat(Virtual Memory Statistics 虚拟内存统计) 命令用来显示Linux系统虚拟内存状态，也可以报告关于进程、内存、I/O等系统整体运行状态。
 vmstat 1    1表示每秒采集一次
 vmstat 2 1    2表示2秒采集一次，1表示只采集一次
 r 表示运行队列(就是说多少个进程真的分配到CPU)
