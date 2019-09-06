@@ -88,6 +88,3 @@ n: 设置显示的进程数
 ![enter description here](./4.png)
 ![enter description here](./5.png)
 
-``` javascript
-enter code here
-```
