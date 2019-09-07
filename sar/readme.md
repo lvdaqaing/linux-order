@@ -40,3 +40,6 @@ sar -n DEV 1 2 （1：每隔一秒，2：写入2次）
 
 ## 4.1. DEV输出项说明
 ![enter description here](./8.png)
+![enter description here](./9.png)
+![enter description here](./10.png)
+
